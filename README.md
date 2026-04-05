@@ -33,16 +33,17 @@ Overview of the Code...........
 <img width="1887" height="848" alt="Screenshot 2026-03-08 104732" src="https://github.com/user-attachments/assets/cc1ff550-fc51-4a55-bfe0-099bef98d9f2" />
 
 
-#Project--03
+
+#Project--03 User Data Fetcher is a modern
 
 This contact form project demonstrates effective client-side validation techniques using HTML, CSS, and JavaScript. The form captures user information through three essential fields: name, email, and message, each with specific validation requirements. JavaScript validation ensures that name and message fields contain content while the email field follows a proper format using regular expressions. When validation fails, users receive immediate visual feedback through error messages positioned below each problematic input field. The form prevents submission until all requirements are met, at which point a success message appears, creating a seamless user experience without actual backend processing.
 
 Overview of the Code...........
 
-<img width="1447" height="887" alt="image" src="https://github.com/user-attachments/assets/d04988e2-2d50-47a6-8fc9-3a55afb92f40" />
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/4fcd266a-7fe6-4396-aa08-90c39aec61fd" />
 
 Demonstrate how to fetch data from a public API (JSONPlaceholder) display the retrieved data in an organized, visually appealing format implement proper error handling for network issues,create a responsive design that works across different devices ...add animations and micro-interactions to enhance user experience
 
-<img width="1187" height="906" alt="image" src="https://github.com/user-attachments/assets/5473d69f-67d1-45b2-90b4-a8b95a601e6e" />
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/6337f0e1-3f57-41d0-9141-afe7e8f36861" />
 
 
